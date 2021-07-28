@@ -7,7 +7,7 @@
 	ignore = dirty
 [submodule "third_party/protobuf"]
 	path = third_party/protobuf
-	url = https://github.com/google/protobuf.git
+	url = https://github.com/protocolbuffers/protobuf.git
 	branch = 3.0.x
 [submodule "third_party/gflags"]
 	path = third_party/gflags
